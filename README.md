@@ -1,2 +1,2 @@
 # Hospital-System
-Implemented a small hospital system, where patients can book appointments. 
+Implemented a small hospital system using C++, where patients can book appointments. 
